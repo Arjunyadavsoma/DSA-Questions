@@ -34,7 +34,7 @@ Welcome to the **Top 150 Data Structures and Algorithms Problems** repository! T
 | ⭐ | Tournament Winner | 🟩 | [tournament-winner.py](tournament-winner.py) |
 | ⭐ | Non-Constructible Change | 🟩 | [non-constructible-change.py](non-constructible-change.py) |
 | ⭐ | Find Closest Value in BST | 🟩 | [closest-in-BST.py](closest-in-BST.py) |
-| ⭐ | Branch Sums | 🟩 | [branch-sums.py](Branchsums.py) |
+| ⭐ | Branch Sums | 🟩 | [branch-sums.py](BranchSum.py) |
 | ⭐ | Node Depths | 🟩 | [node-depths.py](node-depths.py) |
 | ⭐ | Depth First Search | 🟩 | [depth-first-search.py](depth-first-search.py) |
 | ⭐ | Minimum Waiting Time | 🟩 | [minimum-waiting-time.py](minimum-waiting-time.py) |

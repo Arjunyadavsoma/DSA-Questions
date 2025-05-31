@@ -34,7 +34,7 @@ Welcome to the **Top 150 Data Structures and Algorithms Problems** repository! T
 | ⭐ | Tournament Winner | 🟩 | [tournament-winner.py](tournament-winner.py) |
 | ⭐ | Non-Constructible Change | 🟩 | [non-constructible-change.py](non-constructible-change.py) |
 | ⭐ | Find Closest Value in BST | 🟩 | [closest-in-BST.py](closest-in-BST.py) |
-| ⭐ | Branch Sums | 🟩 | [branch-sums.py](branch-sums.py) |
+| ⭐ | Branch Sums | 🟩 | [branch-sums.py](Branchsums.py) |
 | ⭐ | Node Depths | 🟩 | [node-depths.py](node-depths.py) |
 | ⭐ | Depth First Search | 🟩 | [depth-first-search.py](depth-first-search.py) |
 | ⭐ | Minimum Waiting Time | 🟩 | [minimum-waiting-time.py](minimum-waiting-time.py) |
@@ -42,13 +42,13 @@ Welcome to the **Top 150 Data Structures and Algorithms Problems** repository! T
 | ⭐ | Remove Duplicates from Linked List | 🟩 | [remove-duplicates.py](remove-duplicates.py) |
 | ⭐ | Nth Fibonacci | 🟩 | [nth-fibonacci.py](nth-fibonacci.py) |
 | ⭐ | Product Sum | 🟩 | [product-sum.py](product-sum.py) |
-| ⭐ | Binary Search | 🟩 | [binary-search.py](binary-search.py) |
+| ⭐ | Binary Search | 🟩 | [binary-search.py](Binarysearch.py) |
 | ⭐ | Find Three Largest Numbers | 🟩 | [find-three-largest-numbers.py](find-three-largest-numbers.py) |
 | ⭐ | Bubble Sort | 🟩 | [bubble-sort.py](bubble-sort.py) |
 | ⭐ | Insertion Sort | 🟩 | [insertion-sort.py](insertion-sort.py) |
 | ⭐ | Selection Sort | 🟩 | [selection-sort.py](selection-sort.py) |
 | ⭐ | Palindrome Check | 🟩 | [palindrome-check.py](palindrome-check.py) |
-| ⭐ | Caesar Cipher Encryptor | 🟩 | [caesar-cipher-encryptor.py](caesar-cipher-encryptor.py) |
+| ⭐ | Caesar Cipher Encryptor | 🟩 | [caesar-cipher-encryptor.py](caesarCipherEncryptor.py) |
 | ⭐ | Run Length Encoding | 🟩 | [run-length-encoding.py](run-length-encoding.py) |
 | ⭐ | Generate Document | 🟩 | [generate-document.py](generate-document.py) |
 | ⭐ | Sorted Square Array | 🟩 | [sorted-square-array.py](sorted-square-array.py) |
